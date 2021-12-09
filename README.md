@@ -8,7 +8,7 @@ This repo provide one-line command for quickly setup CZ in global level
 ## Installing the command line tool
 Commitizen is currently tested against Node.js 12, 14, & 16, although it may work in older versions of Node.js. You should also have npm 6 or greater.
 **Please install Node.js first**
-> https://nodejs.org/en/
+> https://nodejs.org
 
 ## Install
 ### Ubuntu
